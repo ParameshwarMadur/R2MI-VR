@@ -1,0 +1,11 @@
+Model Information:
+* title:	Steel screw
+* source:	https://sketchfab.com/3d-models/steel-screw-dd98337fb39c4ae6a57d78fccd3e1c92
+* author:	Yerassyl Serik (https://sketchfab.com/yeraaaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Steel screw" (https://sketchfab.com/3d-models/steel-screw-dd98337fb39c4ae6a57d78fccd3e1c92) by Yerassyl Serik (https://sketchfab.com/yeraaaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
